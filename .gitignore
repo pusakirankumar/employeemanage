@@ -1,0 +1,31 @@
+# Files
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp
+*.db
+*.mv.db
+
+# Folders
+target
+pids
+logs
+results
+tmp
+coverage
+out
+
+# IntelliJ IDE
+.idea
+*.iml
+
+# Git
+.git
+
+# Eclipse IDE
+*.classpath
+*.project
+*.settings
